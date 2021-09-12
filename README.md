@@ -1,5 +1,2 @@
-# react-projects-7-slider
-
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+It is a react based website. It simply displays profile of people. It automatically changes the displayed profile every 3 seconds using setInterval. Users can also slide right or left using arrows.
+Go to : https://reactjs-mini-project-slider.netlify.app/
